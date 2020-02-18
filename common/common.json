@@ -1,5 +1,9 @@
 {
+    "int": "Hello int",
     "string": "Hello World",
+    "long": "Hello long",
+ 
+    "int": "Hello int",
     "string": "Hello World",
-    "string": "Hello World"
+    "long": "Hello long"
   }

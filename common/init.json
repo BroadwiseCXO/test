@@ -2,11 +2,11 @@
     "object": {
       "a": "b",
       "c": "d",
+      "e": "f",
       "e": "f"
     },
     "array": [
-      1,
-      2
+      1
     ],
     "string": "Hello World"
   }
